@@ -1,0 +1,8 @@
+C:\Users\Михаил\source\repos\Методы\Методы\bin\Debug\Методы.exe.config
+C:\Users\Михаил\source\repos\Методы\Методы\bin\Debug\Методы.exe
+C:\Users\Михаил\source\repos\Методы\Методы\bin\Debug\Методы.pdb
+C:\Users\Михаил\source\repos\Методы\Методы\obj\Debug\Методы.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Методы\Методы\obj\Debug\Методы.csproj.SuggestedBindingRedirects.cache
+C:\Users\Михаил\source\repos\Методы\Методы\obj\Debug\Методы.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Методы\Методы\obj\Debug\Методы.exe
+C:\Users\Михаил\source\repos\Методы\Методы\obj\Debug\Методы.pdb
